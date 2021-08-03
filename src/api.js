@@ -40,6 +40,7 @@ export function USER_GET(token) {
   };
 }
 
+
 // Cadastrar um usuario
 export function USER_POST(body) {
   return {
@@ -52,4 +53,4 @@ export function USER_POST(body) {
       body: JSON.stringify(body),
     },
   };
-} 
+}
