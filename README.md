@@ -10,7 +10,7 @@
 
 </br>
 
-<h2>🚀 Tecnologias</h2>
+<h2>Tecnologias</h2>
 <ul>
     <li><a href="https://create-react-app.dev/" target="_blank">React</a></li>
     <li><a href="https://reactrouter.com/" target="_blank">React Router</a></li>
